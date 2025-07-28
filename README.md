@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Divyanshu Chaursia</h1>
 <h3 align="center">Creative Developer | Tech Explorer</h3>
-<h4> Check My Previous Github Projects : ><a href="https://hithub.co,/shubham-king">ShuBham-king</a> </h4>
+<h4> Check My Previous Github Projects : <a href="https://ghithub.com/shubham-king"> ShuBham-king</a> </h4>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubham-king&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-king" />
+  <img src="https://komarev.com/ghpvc/?username=chaursia&label=Profile%20views&color=0e75b6&style=flat" alt="chaursia" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 - 🎬 I run a YouTube channel making anime edits and tech content
 - 🌱 I’m learning AI development and mobile apps with JavaScript
 - 💡 I love creating tools that simplify daily tasks
-- 📫 Reach me at: shubhamofficial.business@gmail.com
+- 📫 Reach me at: divyanshuchaursia@outlook.com
 
 ---
 
@@ -30,8 +30,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham-king&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shubham-king&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chaursiag&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chaursia&theme=tokyonight" />
 </p>
 
 ---
