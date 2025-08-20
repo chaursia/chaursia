@@ -3,7 +3,7 @@
 <h4> Check My Previous Github Projects : <a href="https://github.com/shubham-king"> ShuBham-king</a> </h4>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/divyanshu-chaursia-222712374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
+  <a href="http://www.linkedin.com/in/divyanshuchaursia" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/divyanshuchaursia/">
